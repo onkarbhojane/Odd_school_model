@@ -1,0 +1,4 @@
+Flask
+pickle
+numpy
+scikit-learn
